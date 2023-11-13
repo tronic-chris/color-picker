@@ -1,6 +1,6 @@
 {
-  "name": "@hello-pangea/color-picker",
-  "version": "3.2.2",
+  "name": "@tronic/color-picker",
+  "version": "3.3.0",
   "private": false,
   "description": "React color pickers from Sketch, Photoshop, Chrome, Github, Twitter & more",
   "main": "./dist/color-picker.cjs.js",
@@ -12,15 +12,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hello-pangea/color-picker.git"
+    "url": "git+https://github.com/tronic-chris/color-picker.git"
   },
   "homepage": "https://colorpicker.hellopangea.com/",
   "bugs": {
-    "url": "https://github.com/hello-pangea/color-picker/issues"
+    "url": "https://github.com/tronic-chris/color-picker/issues"
   },
   "author": "case <case@casesandberg.com>",
   "maintainers": [
-    "Reece Carolan <reece@hellopangea.com>"
+    "Chris Traveis <chris@tronic.app>"
   ],
   "license": "MIT",
   "sideEffects": false,
