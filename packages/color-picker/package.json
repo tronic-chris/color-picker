@@ -1,5 +1,5 @@
 {
-  "name": "@tronic/color-picker",
+  "name": "@tronic-chris/color-picker",
   "version": "3.3.0",
   "private": false,
   "description": "React color pickers from Sketch, Photoshop, Chrome, Github, Twitter & more",
